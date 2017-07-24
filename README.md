@@ -1,0 +1,2 @@
+# sikop
+Sistem Informasi Koperasi
